@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PulsePal</string>
+
+    <string name="title_form">Choose an ECG interval</string>
+    <string name="label_recording_id">Recording ID *</string>
+    <string name="label_start">Start (seconds) *</string>
+    <string name="label_length">Length (seconds) *</string>
+    <string name="hint_recording_id">e.g. 1</string>
+    <string name="hint_start">e.g. 120</string>
+    <string name="hint_length">e.g. 10</string>
+    <string name="button_review">Review</string>
+    <string name="button_clear">Clear</string>
+
+    <string name="error_numbers">Fill in all fields with whole numbers</string>
+    <string name="error_recording_id">Recording ID must be 1 or more</string>
+    <string name="error_start">Start cannot be negative</string>
+    <string name="error_length">Length must be between 5 and 60 seconds</string>
+    <string name="error_no_data">No data received. Go back and try again</string>
+
+    <string name="title_details">Interval details</string>
+    <string name="label_recording_id_short">Recording ID</string>
+    <string name="label_start_short">Start</string>
+    <string name="label_length_short">Length</string>
+    <string name="label_end">End</string>
+    <string name="seconds_value">%1$d s</string>
+    <string name="button_back">Back</string>
+</resources>
